@@ -2,6 +2,6 @@
 
 ### Education
 ### Work experience
-### Skills
+### Skill
 ### projects
  
